@@ -1,0 +1,7 @@
+{
+  "name": "PaperVault",
+  "description": "A secure and professional research paper management platform where scholars can dock, analyze, and export their publications with AI power.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
